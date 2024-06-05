@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=B612+Mono&weight=200&size=25&duration=4000&pause=2100&color=F7F7F7&center=true&random=false&width=610&lines=Hey%F0%9F%91%8B+I'm+Guilherme+Welcome+to+my+Profile!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=B612+Mono&weight=200&size=25&duration=2700&pause=3600&color=F7F7F7&center=true&random=false&width=610&lines=Hey%F0%9F%91%8B+I'm+Guilherme+Welcome+to+my+Profile!" alt="Typing SVG"/>
 </h1>
 
 ### How's it going?😁
@@ -9,3 +9,39 @@
 ## Status: 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guilhermetossi&theme=dark)
+
+## Skills:
+
+<table align="center">
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    
+</tr>
+
+</table>
+
