@@ -4,5 +4,4 @@
 
 ### How's it going?😁
 
-#### My name is Guilherme Tossi, I'm a cyber security professional. Ready to face any challenges!
-
+#### My name is Guilherme Tossi, An ambitious cyber security professional ready to face any challenge!
